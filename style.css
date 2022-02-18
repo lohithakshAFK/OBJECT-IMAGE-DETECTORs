@@ -1,0 +1,76 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+
+#heading{
+    margin-top:10px;
+    width:80%;
+    background-color:black;
+    padding:20px;
+    border-radius:75px;
+    color:white;
+}
+
+.a{
+    background-color:black;
+    padding:20px;
+    margin-top:30px;
+    text-align:center;
+    box-shadow:5px 5px 5px black;
+    border-radius:20px;
+    width:50%;
+}
+
+.d{
+    background-color:black;
+    width:50%;
+    
+}
+
+.heading{
+    margin:0;
+    width:100%;
+    background-color:black;
+    color:white;
+    padding:20px;
+    font-size:30px !important;
+    text-shadow: white;
+}
+
+.heading img{
+    height:50px;
+    width:50px;
+    border-radius:10px;
+    margin-left:20px;
+}
+
+.two{
+    margin-left:30px;
+}
+
+.onee, .two{
+    background-color:red;
+    color:yellow;
+    border-radius:10px;
+    box-shadow:5px 5px 5px red;
+    padding:10px;
+}
+
+.back{
+    height:30px;
+    font-size:15px;
+    width:80%;
+    margin-top:10px;
+    border-radius:10px;
+     
+    margin-top:20px;
+    
+
+}
+
+canvas{
+    border-radius:10px;
+    border:2px black solid;
+    margin-top:100px;
+}
